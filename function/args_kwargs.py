@@ -1,5 +1,5 @@
 # *args 不特定多数の引数
-# print("hello", "world")
+print("hello", "world")
 def get_average(*args):
     num = len(args)
     if num == 0:
